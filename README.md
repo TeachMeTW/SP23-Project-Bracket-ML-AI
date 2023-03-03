@@ -1,4 +1,9 @@
 # SP23-Project-Bracket-ML-AI
-## Participants
-- alec fong
-- sebastian silva
+
+## Lead
+- Robin Simpson
+
+### Participants
+- Alec Fong
+- Sebastian Silva
+- David Gade
