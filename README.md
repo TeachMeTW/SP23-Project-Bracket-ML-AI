@@ -7,3 +7,4 @@
 - Alec Fong
 - Sebastian Silva
 - David Gade
+- Samuel Henry
