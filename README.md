@@ -8,3 +8,4 @@
 - Sebastian Silva
 - David Gade
 - Samuel Henry
+- Bryan Valerianlie
